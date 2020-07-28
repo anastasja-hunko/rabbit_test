@@ -1,4 +1,4 @@
-module github.com/rabbit_test
+module github.com/rabbit_test/consumer
 
 go 1.14
 
